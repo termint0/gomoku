@@ -189,9 +189,4 @@ class Player:
         #opponent_move == None -> začíná/opponent špatnej move
         #randomvalid - ukázka
         #numpy?
-#COCKFUCK COCKANDBALLSBALLSNASKNLSJECKJLELJ I LOVE MY (PROKOP'S) ASS <33333 
-'''WHERE ARE MY BALLS'''
-#HELLO WORLD SUCK MY COCK WORLD
-'''I AM A DOGBOY'''
-#I HAVE 1838203308203%29830010298192018191 IQ MORE THHAN THIS AI
-'''(THIS ai got -7iq)'''
+
